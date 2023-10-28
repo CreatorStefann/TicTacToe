@@ -6,6 +6,9 @@ This is a simple tic tac toe game. I made this project a while ago out of boredo
 
 This project is a browser-based implementation of the classic Tic-Tac-Toe game, featuring an unbeatable AI opponent powered by the MiniMax algorithm. The game is developed using HTML, CSS, and JavaScript, with a strong focus on modular and factory-based design principles. It provides an interactive interface for users to enjoy the game and test their skills against an intelligent AI.
 
+## Live Demo
+You can check out the live project here: [Live Demo](https://creatorstefann.github.io/TicTacToe/)
+
 ## Features
 
 - **Unbeatable AI:** The AI opponent uses the MiniMax algorithm to ensure it makes the best possible moves, making it a formidable opponent for players.
